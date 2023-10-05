@@ -1,12 +1,18 @@
 version: "3"
 services:
   springBootApp:
-    image: user12345678910987654321/project:1.0
+    image: user12345678910987654321/project1:1.0
     container_name: docker-postgres-springboot-demo-app
     environment:
-      - POSTGRES_HOST=docker-postgres-springboot-demo-db
+      - POSTGRES_HOST=docker-postgres-springboot-db
+      - SERVER_PORT=9011
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgresDb:5432/postgres
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=Pnm@priya1
+      - SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT=org.hibernate.dialect.PostgreSQLDialect
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
     ports:
-      - "9003:9010"
+      - "9003:9011"
     networks:
       - network
     depends_on:
