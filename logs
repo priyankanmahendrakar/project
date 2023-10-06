@@ -7,67 +7,34 @@ failed to get console mode for stdout: The handle is invalid.
  - Container docker-postgres-springboot-demo-app  Recreate[34m0.2s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m0.3s [0m
+ - Container docker-postgres-springboot-demo-app  Recreate[34m0.2s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
  - Container docker-postgres-springboot-demo-app  Recreate[34m0.4s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m0.5s [0m
+ - Container docker-postgres-springboot-demo-app  Recreate[34m0.4s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
  - Container docker-postgres-springboot-demo-app  Recreate[34m0.6s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m0.7s [0m
+ - Container docker-postgres-springboot-demo-app  Recreate[34m0.6s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
  - Container docker-postgres-springboot-demo-app  Recreate[34m0.8s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m0.9s [0m
+ - Container docker-postgres-springboot-demo-app  Recreate[34m0.8s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
  - Container docker-postgres-springboot-demo-app  Recreate[34m1.0s [0m
 [?25h[1A[1A[1A[0G[?25l[+] Running 1/2
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.1s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.2s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.3s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.4s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.5s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.6s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.7s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.8s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m1.9s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m2.0s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m2.1s [0m
-[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
- [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- - Container docker-postgres-springboot-demo-app  Recreate[34m2.2s [0m
+ - Container docker-postgres-springboot-demo-app  Recreate[34m1.0s [0m
 [?25h[1A[1A[1A[0G[?25l[34m[+] Running 2/2[0m
  [32m✔[0m Container docker-postgres-springboot-demo-db   [32mRunning[0m[34m0.0s [0m
- [32m✔[0m Container docker-postgres-springboot-demo-app  [32mRecreated[0m[34m2.3s [0m
+ [32m✔[0m Container docker-postgres-springboot-demo-app  [32mRecreated[0m[34m1.1s [0m
 [?25hAttaching to docker-postgres-springboot-demo-app, docker-postgres-springboot-demo-db
 docker-postgres-springboot-demo-app  | 
 docker-postgres-springboot-demo-app  |   .   ____          _            __ _ _
@@ -78,23 +45,27 @@ docker-postgres-springboot-demo-app  |   '  |____| .__|_| |_|_| |_\__, | / / / /
 docker-postgres-springboot-demo-app  |  =========|_|==============|___/=/_/_/_/
 docker-postgres-springboot-demo-app  |  :: Spring Boot ::                (v3.1.4)
 docker-postgres-springboot-demo-app  | 
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:34.285Z  INFO 1 --- [           main] com.example.demo.ProjectApplication      : Starting ProjectApplication v0.0.1-SNAPSHOT using Java 21-ea with PID 1 (/app.jar started by root in /)
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:34.290Z  INFO 1 --- [           main] com.example.demo.ProjectApplication      : No active profile set, falling back to 1 default profile: "default"
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:36.303Z  INFO 1 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:36.428Z  INFO 1 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 101 ms. Found 1 JPA repository interfaces.
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:37.870Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9011 (http)
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:37.893Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:37.893Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:38.069Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:38.071Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3647 ms
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:38.657Z  INFO 1 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:39.094Z  INFO 1 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.9.Final
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:39.106Z  INFO 1 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:39.666Z  INFO 1 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:40.306Z  INFO 1 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:40.403Z  INFO 1 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:41.096Z  INFO 1 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5be82d43
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:41.104Z  INFO 1 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:41.759Z  INFO 1 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:43.301Z  INFO 1 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
-docker-postgres-springboot-demo-app  | 2023-10-05T14:35:43.445Z  INFO 1 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:50.810Z  INFO 1 --- [           main] com.example.demo.ProjectApplication      : Starting ProjectApplication v0.0.1-SNAPSHOT using Java 21-ea with PID 1 (/app.jar started by root in /)
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:50.817Z  INFO 1 --- [           main] com.example.demo.ProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:53.394Z  INFO 1 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:53.534Z  INFO 1 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 119 ms. Found 1 JPA repository interfaces.
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:56.135Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9011 (http)
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:56.249Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:56.250Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:56.707Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:56.713Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5670 ms
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:57.424Z  INFO 1 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:57.612Z  INFO 1 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.9.Final
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:57.621Z  INFO 1 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:58.238Z  INFO 1 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:58.562Z  INFO 1 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:58.599Z  INFO 1 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:59.052Z  INFO 1 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@70e0accd
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:59.058Z  INFO 1 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+docker-postgres-springboot-demo-app  | 2023-10-05T15:06:59.696Z  INFO 1 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+docker-postgres-springboot-demo-app  | 2023-10-05T15:07:01.510Z  INFO 1 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+docker-postgres-springboot-demo-app  | 2023-10-05T15:07:01.779Z  INFO 1 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+docker-postgres-springboot-demo-app  | 2023-10-05T15:07:02.555Z  WARN 1 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+docker-postgres-springboot-demo-app  | 2023-10-05T15:07:03.527Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9011 (http) with context path ''
+docker-postgres-springboot-demo-app  | 2023-10-05T15:07:03.551Z  INFO 1 --- [           main] com.example.demo.ProjectApplication      : Started ProjectApplication in 14.1 seconds (process running for 15.667)
+docker-postgres-springboot-demo-app  | my application is working......
